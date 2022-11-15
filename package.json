@@ -1,5 +1,6 @@
 {
 	"author": "Dan Gelok",
+	"description": "A backend project of some sort",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
